@@ -1,4 +1,4 @@
-# Deploy Demo App
+# Microservices with load balancer on Kubernetes cluster
 
 These modules deploy a simple demo app to an IKS Cluster using a [Load Balancer](./load_balancer) deployment.
 
